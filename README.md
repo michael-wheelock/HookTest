@@ -1,2 +1,4 @@
 HookTest
 ========
+
+-- This is great!
